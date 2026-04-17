@@ -2,6 +2,16 @@
 
 SafeVest is a smart safety vest system designed to monitor worker health and environmental conditions in real-time using multiple sensors and a mobile application.
 
+
+## 🏆 Presentation
+
+This project was presented at the **Ege Career Fair (EGEKAF)**.
+
+SafeVest was showcased as an innovative smart safety system focusing on real-time monitoring of environmental and health conditions using IoT technologies.
+
+The project attracted attention for its multi-sensor integration and practical application in occupational safety.
+
+
 ## 🚀 Features
 
 * 📡 Real-time environmental monitoring
